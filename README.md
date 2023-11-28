@@ -6,7 +6,7 @@ inspired by [aayush](https://github.com/Divide-By-0/ideas-for-projects-people-wo
 
 ## description 
 
-1. you can see all the current grant opportunities at https://github.com/yachty66/codegrants/issues
+1. you can see all the current bounty opportunities at https://github.com/yachty66/codegrants/issues
 
 2. every project can be bountied once.
 
